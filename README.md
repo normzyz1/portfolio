@@ -1,4 +1,4 @@
-##Software Engineer
+## SOFTWARE ENGINEER
 
 ## Education 
 Software Engineer
@@ -13,7 +13,7 @@ using Python, I designed an app to assist users in managing their finances effec
 The financial tracker focuses on delivering accurate calculations and insights,
 empowering users to take control of their spending habits and savings.
 
-###Technical Skills
+## Skills
 Programming Languages: Java, Python, JavaScript
 Web Development: HTML, CSS, React
 Frameworks and Libraries: React (Frontend Framework)
